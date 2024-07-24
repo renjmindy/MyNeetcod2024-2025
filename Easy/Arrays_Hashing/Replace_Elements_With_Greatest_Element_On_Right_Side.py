@@ -7,6 +7,4 @@ class Solution:
             pre, cur = cur, max(arr[r], cur)
             arr[r] = pre
 
-        arr[-1] = -1
-
         return arr
