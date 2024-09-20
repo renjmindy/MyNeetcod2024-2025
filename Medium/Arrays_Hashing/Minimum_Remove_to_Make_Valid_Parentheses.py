@@ -1,18 +1,19 @@
 class Solution:
-    def findMaxLength(self, nums: List[int]) -> int:
-        
-        ones, zeros, ans = 0, 0, 0
-        diff = dict()
+    def minRemoveToMakeValid(self, s: str) -> str:
+        mp = list()
+        sp = list() # sp = set()
+        ans = ''
 
-        for i, num in enumerate(nums):
-            if num == 1: ones += 1
-            else: zeros += 1
-            if ones - zeros not in diff: 
-                diff[ones - zeros] = i
-            if ones == zeros: ans = ones + zeros
-            else: 
-                #print(ones - zeros)
-                idx = diff[ones - zeros]
-                ans = max(ans, i - idx)
+        for i, c in enumerate(s):
+            if c == '(': mp.append(i)
+            elif c == ')': 
+                if mp: mp.pop()
+                else: sp.append(i) # sp.add(i)
+
+        #sp.update(mp)
+        sp += mp
+
+        for i, c in enumerate(s):
+            if i not in sp: ans += c
 
         return ans
