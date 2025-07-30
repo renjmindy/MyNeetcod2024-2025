@@ -2,11 +2,11 @@
  
 88MergeSortedArrayEasy ✅
  
-146LRUCacheMed 
+146LRUCacheMed ✅
  
 49GroupAnagramsMed ✅
  
-875KokoEatingBananasMed
+875KokoEatingBananasMed ✅
  
 2AddTwoNumbersMed ✅
  
@@ -14,21 +14,21 @@
  
 42TrappingRainWaterHard ✅
  
-207CourseScheduleMed 
+207CourseScheduleMed ❎
  
 5LongestPalindromicSubstringMed ✅
  
-200NumberofIslandsMed 
+200NumberofIslandsMed ❎
  
-55JumpGameMed 
+55JumpGameMed ✅
  
-127WordLadderHard
+127WordLadderHard ❎
  
-179LargestNumberMed
+179LargestNumberMed ❎
  
-347TopKFrequentElementsMed
+347TopKFrequentElementsMed ✅
  
-767ReorganizeStringMed
+767ReorganizeStringMed 
  
 1768MergeStringsAlternatelyEasy ✅
  
@@ -38,83 +38,83 @@
  
 20ValidParenthesesEasy ✅
  
-4MedianofTwoSortedArraysHard
+4MedianofTwoSortedArraysHard ✅
  
 121BestTimetoBuyandSellStockEasy ✅
  
-126WordLadderIIHard
+126WordLadderIIHard ❎
  
 138CopyListwithRandomPointerMed
  
 380InsertDeleteGetRandomO(1)Med
  
-560SubarraySumEqualsKMed
+560SubarraySumEqualsKMed ✅
  
-567PermutationinStringMed
+567PermutationinStringMed ✅
  
 2667CreateHelloWorldFunctionEasy ✅
  
-22GenerateParenthesesMed
+22GenerateParenthesesMed ❎
  
 23MergekSortedListsHard
  
-45JumpGameIIMed
+45JumpGameIIMed ✅
  
 70ClimbingStairsEasy ✅
  
-128LongestConsecutiveSequenceMed
+128LongestConsecutiveSequenceMed ✅
  
-139WordBreakMed
+139WordBreakMed ✅
  
 206ReverseLinkedListEasy
  
-210CourseScheduleIIMed
+210CourseScheduleIIMed ❎
  
 236LowestCommonAncestorofaBinaryTreeMed
  
-239SlidingWindowMaximumHard
+239SlidingWindowMaximumHard ✅
  
-241DifferentWaystoAddParenthesesMed
+241DifferentWaystoAddParenthesesMed (0727)
  
-322CoinChangeMed
+322CoinChangeMed ✅
  
-1757RecyclableandLowFatProductsEasy
+1757RecyclableandLowFatProductsEasy ✅
  
-11ContainerWithMostWaterMed
+11ContainerWithMostWaterMed ✅
  
 14LongestCommonPrefixEasy ✅
  
-17LetterCombinationsofaPhoneNumberMed
+17LetterCombinationsofaPhoneNumberMed ❎
  
-31NextPermutationMed
+31NextPermutationMed (0728)
  
-53MaximumSubarrayMed
+53MaximumSubarrayMed ✅
  
 104MaximumDepthofBinaryTreeEasy
  
 124BinaryTreeMaximumPathSumHard
  
-212WordSearchIIHard
+212WordSearchIIHard 
  
-221MaximalSquareMed
+221MaximalSquareMed ✅
  
 268MissingNumberEasy ✅
  
 283MoveZeroesEasy ✅
  
-437PathSumIIIMed
+437PathSumIIIMed ❎
  
-621TaskSchedulerMed
+621TaskSchedulerMed ❎
  
-729MyCalendarIMed
+729MyCalendarIMed ❎
  
-921MinimumAddtoMakeParenthesesValidMed
+921MinimumAddtoMakeParenthesesValidMed ✅
  
-1331RankTransformofanArrayEasy
+1331RankTransformofanArrayEasy ✅
  
 2416SumofPrefixScoresofStringsHard
  
-7ReverseIntegerMed
+7ReverseIntegerMed ✅
  
 12IntegertoRomanMed
  
@@ -122,71 +122,71 @@
  
 21MergeTwoSortedListsEasy
  
-33SearchinRotatedSortedArrayMed
+33SearchinRotatedSortedArrayMed ✅
  
 48RotateImageMed ✅
  
-56MergeIntervalsMed
+56MergeIntervalsMed ✅
  
-91DecodeWaysMed
+91DecodeWaysMed ✅
  
 143ReorderListMed
  
 169MajorityElementEasy ✅
  
-215KthLargestElementinanArrayMed
+215KthLargestElementinanArrayMed ✅
  
-224BasicCalculatorHard
+224BasicCalculatorHard ✅
  
-253MeetingRoomsIIMed
+253MeetingRoomsIIMed ✅
  
 297SerializeandDeserializeBinaryTreeHard
  
-332ReconstructItineraryHard
+332ReconstructItineraryHard ❎
  
 349IntersectionofTwoArraysEasy ✅
  
-584FindCustomerRefereeEasy 
+584FindCustomerRefereeEasy ✅
  
-739DailyTemperaturesMed
+739DailyTemperaturesMed ✅
  
-528RandomPickwithWeightMed
+528RandomPickwithWeightMed ✅
  
-994RottingOrangesMed
+994RottingOrangesMed ❎
  
-1010PairsofSongsWithTotalDurationsDivisibleby60Med
+1010PairsofSongsWithTotalDurationsDivisibleby60Med ✅
  
-1011CapacityToShipPackagesWithinDDaysMed
+1011CapacityToShipPackagesWithinDDaysMed ✅
  
-1152AnalyzeUserWebsiteVisitPatternMed
+1152AnalyzeUserWebsiteVisitPatternMed 
  
-1268SearchSuggestionsSystemMed
+1268SearchSuggestionsSystemMed ✅
  
-1497CheckIfArrayPairsAreDivisiblebykMed
+1497CheckIfArrayPairsAreDivisiblebykMed ✅
  
-25ReverseNodesink-GroupHard
+25ReverseNodesink-GroupHard ❎
  
 27RemoveElementEasy ✅
  
-29DivideTwoIntegersMed
+29DivideTwoIntegersMed ✅
  
 35SearchInsertPositionEasy ✅
  
-39CombinationSumMed
+39CombinationSumMed 
  
-50Pow(xn)Med
+50Pow(xn)Med ✅
  
-54SpiralMatrixMed 
+54SpiralMatrixMed  ✅
  
 66PlusOneEasy ✅
  
-69Sqrt(x)Easy
+69Sqrt(x)Easy ✅
  
-75SortColorsMed
+75SortColorsMed ✅
  
-76MinimumWindowSubstringHard
+76MinimumWindowSubstringHard ✅
  
-78SubsetsMed
+78SubsetsMed 
  
 83RemoveDuplicatesfromSortedListEasy
  
@@ -194,43 +194,43 @@
  
 107BinaryTreeLevelOrderTraversalIIMed
  
-113PathSumIIMed
+113PathSumIIMed ❎
  
-122BestTimetoBuyandSellStockIIMed
+122BestTimetoBuyandSellStockIIMed ✅
  
-134GasStationMed
+134GasStationMed ✅
  
-135CandyHard
+135CandyHard ✅
  
 148SortListMed
  
-152MaximumProductSubarrayMed
+152MaximumProductSubarrayMed ✅
  
-155MinStackMed
+155MinStackMed ✅
  
-165CompareVersionNumbersMed
+165CompareVersionNumbersMed ✅
  
-176SecondHighestSalaryMed
+176SecondHighestSalaryMed ✅
  
-187RepeatedDNASequencesMed
+187RepeatedDNASequencesMed ✅
  
-188BestTimetoBuyandSellStockIVHard
+188BestTimetoBuyandSellStockIVHard ✅
  
 189RotateArrayMed ✅
  
-198HouseRobberMed
+198HouseRobberMed ✅
  
-208ImplementTrie(PrefixTree)Med
+208ImplementTrie(PrefixTree)Med 
  
-209MinimumSizeSubarraySumMed
+209MinimumSizeSubarraySumMed ✅
  
-214ShortestPalindromeHard
+214ShortestPalindromeHard ✅
  
 217ContainsDuplicateEasy ✅
  
 227BasicCalculatorIIMed ✅
  
-232ImplementQueueusingStacksEasy
+232ImplementQueueusingStacksEasy ✅
  
 235LowestCommonAncestorofaBinarySearchTreeMed
  
@@ -238,7 +238,7 @@
  
 269AlienDictionaryHard
  
-287FindtheDuplicateNumberMed
+287FindtheDuplicateNumberMed ✅
  
 295FindMedianfromDataStreamHard
  
@@ -246,31 +246,31 @@
  
 386LexicographicalNumbersMed
  
-394DecodeStringMed
+394DecodeStringMed ✅
  
-395LongestSubstringwithAtLeastKRepeatingCharactersMed
+395LongestSubstringwithAtLeastKRepeatingCharactersMed ✅
  
-424LongestRepeatingCharacterReplacementMed
+424LongestRepeatingCharacterReplacementMed ✅
  
-442FindAllDuplicatesinanArrayMed
+442FindAllDuplicatesinanArrayMed ✅
  
 450DeleteNodeinaBSTMed
  
 485MaxConsecutiveOnesEasy ✅
  
-503NextGreaterElementIIMed
+503NextGreaterElementIIMed ✅
  
-517SuperWashingMachinesHard
+517SuperWashingMachinesHard ✅
  
 1721SwappingNodesinaLinkedListMed
  
-539MinimumTimeDifferenceMed
+539MinimumTimeDifferenceMed ✅
  
-547NumberofProvincesMed
+547NumberofProvincesMed ❎
  
-570ManagerswithatLeastMed
+570ManagerswithatLeastMed ✅
  
-5DirectReportsMed
+5DirectReportsMed ✅
  
 588DesignIn-MemoryFileSystemHard
  
@@ -278,7 +278,7 @@
  
 733FloodFillEasy 
  
-735AsteroidCollisionMed
+735AsteroidCollisionMed ✅
  
 752OpentheLockMed
  
@@ -292,44 +292,45 @@
  
 509FibonacciNumberEasy ✅
  
-973KClosestPointstoOriginMed
+973KClosestPointstoOriginMed (0802)
  
 1008ConstructBinarySearchTreefromPreorderTraversalMed
  
-1062LongestRepeatingSubstringMed
+1062LongestRepeatingSubstringMed 
  
 1071GreatestCommonDivisorofStringsEasy ✅
  
-1193MonthlyTransactionsIMed
+1193MonthlyTransactionsIMed ✅
  
-1429FirstUniqueNumberMed
+1429FirstUniqueNumberMed ❎
  
-1353MaximumNumberofEventsThatCanBeAttendedMed
+1353MaximumNumberofEventsThatCanBeAttendedMed  
  
-1431KidsWiththeGreatestNumberofCandiesEasy
+1431KidsWiththeGreatestNumberofCandiesEasy ✅
  
-1590MakeSumDivisiblebyPMed
+1590MakeSumDivisiblebyPMed ✅
  
 1650LowestCommonAncestorofaBinaryTreeIIIMed
  
-1813SentenceSimilarityIIIMed
+1813SentenceSimilarityIIIMed ✅
  
-2055PlatesBetweenCandlesMed
+2055PlatesBetweenCandlesMed ✅
  
 2049CountNodesWiththeHighestScoreMed
  
 2095DeletetheMiddleNodeofaLinkedListMed
  
-2222NumberofWaystoSelectBuildingsMed
+2222NumberofWaystoSelectBuildingsMed ✅
  
-2261KDivisibleElementsSubarraysMed
+2261KDivisibleElementsSubarraysMed ✅
  
-2340MinimumAdjacentSwapstoMakeaValidArrayMed
+2340MinimumAdjacentSwapstoMakeaValidArrayMed 
  
-2491DividePlayersIntoTeamsofEqualSkillMed
+2491DividePlayersIntoTeamsofEqualSkillMed ✅
  
-2696MinimumStringLengthAfterRemovingSubstringsEasy
+2696MinimumStringLengthAfterRemovingSubstringsEasy ✅
  
-3019NumberofChangingKeysEasy
+3019NumberofChangingKeysEasy ✅
  
-3110ScoreofaStringEasy
+3110ScoreofaStringEasy  ✅
+
