@@ -36,3 +36,6 @@ print(inventory.bisect_left(Product(101, 'Pork')))
 
 # TODO: Use the peekitem method to display the Product and its stock quantity at the found index.
 print(inventory.peekitem(inventory.bisect_left(Product(101, 'Prok')))[1])
+
+for prod in inventory:
+    print(f"name: {prod.name}, id: {prod.id}, quantity: {inventory[prod]}")
