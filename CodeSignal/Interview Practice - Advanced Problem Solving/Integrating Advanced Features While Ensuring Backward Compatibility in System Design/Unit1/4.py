@@ -34,6 +34,7 @@ class SocialMedia:
     def create_group(self, group_id: str, operator_id: str) -> bool:
         if group_id in self.groups: return False
         self.groups[group_id] = {"operator": operator_id, "members": [operator_id]}
+        #self.groups.setdefault(group_id, {"operator": operator_id, "members": [operator_id]})
         return True
         
     def add_member(self, group_id: str, user_id: str, operator_id: str) -> bool:
